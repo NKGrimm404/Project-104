@@ -1,0 +1,23 @@
+.heading{
+    width: 80%;
+    font-size: 20px;
+}
+body{
+    background: linear-gradient( #000000 0%, #1c7969 50%, #b5ffec 100%);
+    color: rgb(255, 255, 255);
+    font-family: 'Raleway', sans-serif;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy{
+    color: rgb(255, 255, 255);
+}
+
+.name_of_objects{
+    font-weight: 1000;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
